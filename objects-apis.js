@@ -8,6 +8,6 @@ let dog = {
 	breed: "Pug",
 	size: "Small",
 	bark: function(typeOfBark) {
-console.log("Bark!");
+console.log("Bark!!");
 	},
 };
